@@ -8,4 +8,12 @@
 * Spring Boot is an open source Java-based framework used to create a Micro Service. It is developed by Pivotal Team.
 * Spring Boot contains a comprehensive infrastructure support for developing a micro service and enables you to develop enterprise-ready applications that you can “just run”.
 
+* Maven is a build automation tool used primarily for Java projects.
+* Maven dynamically downloads Java libraries and Maven plug-ins from one or more repositories such as the Maven 2 Central Repository, and stores them in a local cache.
+
 ![alt text](https://i.imgur.com/LBVOjNr.png)
+![alt text](https://i.imgur.com/h722e2X.png)
+![alt text](https://i.imgur.com/g2WEfHG.png)
+
+## Spring Initializer - https://start.spring.io (Select dependencies --> Web, DevTools, JPA, H2)
+![alt text](https://i.imgur.com/05ecl1X.png)
