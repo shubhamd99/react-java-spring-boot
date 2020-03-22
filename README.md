@@ -17,9 +17,19 @@
 3. Generate Maven Project --> Java
 4. Install Spring Boot Tools And Spring Dashboard (Run the application) Extensions.
 
+![alt text](https://i.imgur.com/iegryLc.png)
+
 ![alt text](https://i.imgur.com/LBVOjNr.png)
 ![alt text](https://i.imgur.com/h722e2X.png)
 ![alt text](https://i.imgur.com/g2WEfHG.png)
+
+#### The meaning of Encapsulation, is to make sure that "sensitive" data is hidden from users. To achieve this, you must:
+
+1. declare class variables/attributes as private
+2. provide public get and set methods to access and update the value of a private variable
+3. The get method returns the variable value, and the set method sets the value.
+
+#### @Override annotation is used when we override a method in sub class. 
 
 ## Spring Initializer - https://start.spring.io (Select dependencies --> Web, DevTools, JPA, H2)
 ![alt text](https://i.imgur.com/05ecl1X.png)
