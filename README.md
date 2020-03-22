@@ -11,6 +11,9 @@
 * Maven is a build automation tool used primarily for Java projects.
 * Maven dynamically downloads Java libraries and Maven plug-ins from one or more repositories such as the Maven 2 Central Repository, and stores them in a local cache.
 
+* In Spring MVC all incoming requests go through a single servlet is called Dispatcher Servlet (front controller). The front controller is a design pattern in web application development. A single servlet receives all the request and transfers them to all other components of the application.
+
+
 ### VSCode (Java)
 1.  Install vscode-spring-initializr Extension (Spring Initializr)
 2. Once you have the extension installed, open the Command Palette (⇧⌘P) and type Spring Initializr to start generating a Maven or Gradle project and then follow the wizard.
@@ -20,7 +23,7 @@
 ![alt text](https://i.imgur.com/iegryLc.png)
 
 ![alt text](https://i.imgur.com/LBVOjNr.png)
-![alt text](https://i.imgur.com/h722e2X.png)
+![alt text](https://i.imgur.com/0xW2b9Q.png)
 ![alt text](https://i.imgur.com/g2WEfHG.png)
 
 #### The meaning of Encapsulation, is to make sure that "sensitive" data is hidden from users. To achieve this, you must:
@@ -30,6 +33,8 @@
 3. The get method returns the variable value, and the set method sets the value.
 
 #### @Override annotation is used when we override a method in sub class. 
+
+![alt text](https://i.imgur.com/9wyOlpB.png)
 
 ## Spring Initializer - https://start.spring.io (Select dependencies --> Web, DevTools, JPA, H2)
 ![alt text](https://i.imgur.com/05ecl1X.png)

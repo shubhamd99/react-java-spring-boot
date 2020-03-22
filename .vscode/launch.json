@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestfulWebServicesApplication<restful-services>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.rest.webservices.restfulservices.RestfulWebServicesApplication",
+            "projectName": "restful-services",
+            "args": ""
+        }
+    ]
+}
