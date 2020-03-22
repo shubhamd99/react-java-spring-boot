@@ -11,6 +11,12 @@
 * Maven is a build automation tool used primarily for Java projects.
 * Maven dynamically downloads Java libraries and Maven plug-ins from one or more repositories such as the Maven 2 Central Repository, and stores them in a local cache.
 
+### VSCode (Java)
+1.  Install vscode-spring-initializr Extension (Spring Initializr)
+2. Once you have the extension installed, open the Command Palette (⇧⌘P) and type Spring Initializr to start generating a Maven or Gradle project and then follow the wizard.
+3. Generate Maven Project --> Java
+4. Install Spring Boot Tools And Spring Dashboard (Run the application) Extensions.
+
 ![alt text](https://i.imgur.com/LBVOjNr.png)
 ![alt text](https://i.imgur.com/h722e2X.png)
 ![alt text](https://i.imgur.com/g2WEfHG.png)
