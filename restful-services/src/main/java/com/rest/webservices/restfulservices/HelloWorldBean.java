@@ -8,10 +8,12 @@ public class HelloWorldBean {
         this.message = message;
     }
 
+    // getters are used to get the values of the private variable
     public String getMessage() {
         return message;
     }
     
+    // setters are used to set the values of the private variable
     public void setMessage(String message) {
         this.message = message;
     }
